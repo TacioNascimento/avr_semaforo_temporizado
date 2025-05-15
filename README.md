@@ -1,4 +1,4 @@
-# Semaforo Temporizado
+# Semáforo Temporizado
 
 ![Circuito](img/circuito_8.png)
 
